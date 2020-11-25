@@ -7,5 +7,5 @@ First, run the following commands in the server's directory:
 
 Next, run the following commands in the client's directory:
 1. gcc client.c -o client
-2. ./client < filename > (To download a single file)
+2. ./client < filename > (To download a single file)  
 ./client < filename1 > < filename2 > < filename3 > (To download multiple files)
